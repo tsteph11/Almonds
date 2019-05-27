@@ -1,0 +1,6 @@
+You awake in a dimly lit chamber. The only light available to you streams from a crack under the door directly to your right. You can hear voices and footsteps but nothing seems familiar.
+
+
+What should I do?
+1. Inspect the room you are in.
+2. Open the door.
