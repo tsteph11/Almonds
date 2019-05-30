@@ -5,8 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "TextState")]
 public class TextState : ScriptableObject
 {
-    [TextArea]
-    [SerializeField] public string Script;
+    [Multiline(5)] public string Script;
     [SerializeField] public string[] choices;
     [SerializeField] public TextState[] nextStates;
     [SerializeField] public AudioClip musicClip;
