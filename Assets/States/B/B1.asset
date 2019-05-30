@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5abb957644487a428b7f3f3d1c460c8, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  Script: "You get up and begin to examine your surroundings. Even though it\u2019s
+    very dark, the light escaping through a crack in the door shows just enough for
+    you to tell you\u2019re in some sort of closet with metal walls. You have no
+    idea how you got here but you have a bad feeling about this room. You can hear
+    noises coming from outside the door."
+  choices:
+  - Open the Door.
+  nextStates:
+  - {fileID: 11400000, guid: 3c33b0ffb36ea014c899ec2e5671d7c4, type: 2}
