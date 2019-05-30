@@ -17,5 +17,5 @@ MonoBehaviour:
   - Start Over.
   nextStates:
   - {fileID: 11400000, guid: 9bf824265b193594dbe8552f6c97b4e5, type: 2}
-  musicClip: {fileID: 0}
-  musicSource: {fileID: 0}
+  musicClip: {fileID: 8300000, guid: 73e18e8c723f28742b02d9cf512d22f4, type: 3}
+  isPlayed: 0
